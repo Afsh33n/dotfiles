@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = afsheenminnotte@gmail.com
+	name = afsheen minnotte
